@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Urbanist:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=ElegantIcons:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --heading-02: Urbanist;
+  --body-03-default1: "DM Sans";
+  --font-eleganticons: ElegantIcons;
+  --font-work-sans: "Work Sans";
+
+  /* font sizes */
+  --font-size-xs: 12px;
+  --button-uppercase-size: 14px;
+  --body-03-default1-size: 16px;
+  --font-size-lg: 18px;
+  --heading-06-size: 20px;
+  --heading-05-size: 24px;
+  --heading-02-size: 56px;
+
+  /* Colors */
+  --surface-main3: #fff;
+  --surface1: #f6f6f6;
+  --line2: #e5e5e5;
+  --color-gray-300: #a0bce0;
+  --secondary21: #a0a0a0;
+  --secondary: #616161;
+  --on-surface1: #121212;
+  --color-brown-100: #e07575;
+  --color-brown-200: #fa6c58;
+  --primary: #0c8c6c;
+  --success: #3dab25;
+  --color-green-200: #219653;
+
+  /* border radiuses */
+  --br-xs: 1px;
+  --br-sm: 2px;
+  --br-md: 5px;
+  --br-lg: 8px;
+}
